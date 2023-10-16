@@ -18,7 +18,7 @@
 
 <br>
 
-Watch the performance here: [Perceptions of Overstimulation](https://youtu.be/RMXtvtIy0gw)
+**Watch the performance here: [Perceptions of Overstimulation](https://youtu.be/RMXtvtIy0gw)**
 **Performance contributions:**
 
 - Viljar Rosin - Technial Manager
