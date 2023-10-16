@@ -16,11 +16,6 @@
 Contact Information: [mgug1455@gmail.com](mailto:mgug1455@gmail.com)
 
 <br>
-<br>
-
-**Expected Output:**
-<br>
-<br>
 
 **Example image:**
 ![Fortune500 Example Screen 1](/assets/Fortune500-Screen1.png)
