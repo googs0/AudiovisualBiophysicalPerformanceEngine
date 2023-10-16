@@ -12,6 +12,7 @@
 - Audiovisual Performance File
 - BITalino Movement Sensor / EKG OSC data acquisition patch
 - Machine learning test files and data recording files
+- JSON for AV Performance File
 
 <br>
 
