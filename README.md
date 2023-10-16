@@ -6,7 +6,7 @@
 <br>
 
 ### Files included: 
-- AudioVisual Master File
+- Audio-visual Performance File
 - BITalino Movement Sensor / EKG OSC data acquisition patch
 - Machine learning test files and data recording files
 
