@@ -1,7 +1,7 @@
 ## Immersivce Audiovisual Performance with IoT & EKG Devices
 
 ### Integrated Bitalino IoT sensors and an EKG monitor to transform biometric data into dynamic audio and visuals for an immersive live performance.
-### Visual Programming Language: Max 8 by Cycling '74
+**Visual Programming Language: Max 8 by Cycling '74**
 
 <br>
 
