@@ -18,6 +18,8 @@
 
 <br>
 
+Watch the performance here: [Perceptions of Overstimulation](https://youtu.be/RMXtvtIy0gw)
+
 Contact Information: [mgug1455@gmail.com](mailto:mgug1455@gmail.com)
 
 <br>
