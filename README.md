@@ -1,6 +1,6 @@
 ## Immersivce Audiovisual Performance with IoT & EKG Devices
 
-### Integrated Bitalino IoT sensors and an EKG monitor to transform biometric data into dynamic audio and visuals for an immersive live performance.
+### Seamlessly integrated Bitalino IoT sensors and an EKG monitor, transforming live drummer biometric and movement data into a fusion of dynamic audio and visuals for an immersive live performance. ###
 
 <br>
 
