@@ -19,6 +19,7 @@
 <br>
 
 **Watch the performance here: [Perceptions of Overstimulation](https://youtu.be/RMXtvtIy0gw)**
+<br>
 **Performance contributions:**
 
 - Viljar Rosin - Technial Manager
