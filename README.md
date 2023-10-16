@@ -21,7 +21,6 @@
 **Watch the performance here:** [Perceptions of Overstimulation](https://youtu.be/RMXtvtIy0gw)
 
 <br>
-<br>
 
 **Performance contributions:**
 
