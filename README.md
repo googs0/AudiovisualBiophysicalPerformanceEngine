@@ -6,7 +6,7 @@
 <br>
 
 ### Files included: 
-- Audio-visual Performance File
+- Audiovisual Performance File
 - BITalino Movement Sensor / EKG OSC data acquisition patch
 - Machine learning test files and data recording files
 
@@ -19,7 +19,15 @@
 <br>
 
 Watch the performance here: [Perceptions of Overstimulation](https://youtu.be/RMXtvtIy0gw)
+**Performance contributions:**
+- Viljar Rosin - Technial Manager
+- Siim Reispass - Technical Advisor
+- Jürgen Volmer - Co-Cinematographer
+- Johannes Eriste - Musician
+- Michael Gugliotti - Creator, Programmer, Co-Cinematographer, Editor, Animator, and Sound Mixer, and Director
+  
 <br>
+
 Contact Information: [mgug1455@gmail.com](mailto:mgug1455@gmail.com)
 
 <br>
