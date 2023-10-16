@@ -23,5 +23,28 @@ Contact Information: [mgug1455@gmail.com](mailto:mgug1455@gmail.com)
 <br>
 
 **Example image:**
-![Fortune500 Example Screen 1](/assets/Fortune500-Screen1.png)
-![Fortune500 Example Screen 1](/assets/Fortune500-Screen2.png)
+
+<br>
+
+**AV Performance Master**
+
+<br>
+
+![AV Master Overview](/assets/img/AV_Master-Example.png)
+![AV_Master 1](/assets/img/AV_Master-Example1.png)
+![AV Master 2](/assets/img/AV_Master-Example2.png)
+![AV Master 3](/assets/img/AV_Master-Example3.png)
+![AV Master 4](/assets/img/AV_Master-Example4.png)
+![AV Master 5](/assets/img/AV_Master-Example5.png)
+
+<br>
+<br>
+
+**Data Acquisition**
+
+<br>
+
+![Data Acquisition OSC Overview](/assets/img/Data_Acquisition_OSC1.png)
+![Data Acquisition OSC 2](/assets/img/Data_Acquisition_OSC2.png)
+![Data Acquisition OSC 3](/assets/img/Data_Acquisition_OSC3.png)
+![Data Acquisition OSC 4](/assets/img/Data_Acquisition_OSC4.png)
