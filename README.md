@@ -8,8 +8,15 @@
 ### Files included: 
 - Movement Sensor / EKG data acquisition Patch
 - Bitalino RIoT & EKG OSC
-- AudioVisual Patch, Bitalino Object Patcher
+- AudioVisual Patch
+- Bitalino Object Patcher
 - Machine learning test files and data recording files
+
+<br>
+
+## Other Software Used:
+- Wekinator: Machine Learning and Recording
+- OpenSignals by Plux Biosignals: Data Connectivity and Analysis
 
 <br>
 
