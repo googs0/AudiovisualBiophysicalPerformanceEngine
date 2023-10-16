@@ -23,7 +23,7 @@ Contact Information: [mgug1455@gmail.com](mailto:mgug1455@gmail.com)
 
 <br>
 
-**Example image:**
+## Example images: ##
 
 <br>
 
