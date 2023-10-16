@@ -19,7 +19,9 @@
 <br>
 
 Watch the performance here: [Perceptions of Overstimulation](https://youtu.be/RMXtvtIy0gw)
+
 **Performance contributions:**
+
 - Viljar Rosin - Technial Manager
 - Siim Reispass - Technical Advisor
 - Jürgen Volmer - Co-Cinematographer
