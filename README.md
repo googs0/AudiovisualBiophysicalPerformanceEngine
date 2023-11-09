@@ -22,6 +22,10 @@
 
 <br>
 
+#### Current Usage: 2 Bitalino R-IoT Devices, 1 EKG, 2 Video Outputs, Multichannel Audio I/O
+
+<br>
+
 ### Watch the performance here: [Perceptions of Overstimulation](https://youtu.be/RMXtvtIy0gw) ###
 
 <br>
