@@ -23,20 +23,6 @@
 <br>
 
 #### Current Usage: 2 Bitalino R-IoT Devices, 1 EKG, 2 Video Outputs, Multichannel Audio I/O
-
-<br>
-
-### Watch the performance here: [Perceptions of Overstimulation](https://youtu.be/RMXtvtIy0gw) ###
-
-<br>
-
-**Performance contributions:**
-
-- Viljar Rosin - Technial Manager
-- Siim Reispass - Technical Advisor
-- Jürgen Volmer - Co-Cinematographer
-- Johannes Eriste - Musician
-- Michael Gugliotti - Creator, Programmer, Co-Cinematographer, Editor, Animator, and Sound Mixer, and Director
   
 <br>
 
