@@ -17,12 +17,12 @@
 <br>
 
 ## Other Software Used:
-- Wekinator: Machine Learning and Recording
+- Wekinator: Machine Learning / Recording
 - OpenSignals by Plux Biosignals: IoT Data Connectivity and Analysis
 
 <br>
 
-#### Current Usage: 2 Bitalino R-IoT Devices, 1 EKG, 2 Video Outputs, Multichannel Audio I/O
+#### Usage: 2 Bitalino R-IoT Devices, 1 EKG, 2 Video Outputs, Multichannel Audio I/O
   
 <br>
 
@@ -34,7 +34,7 @@ Contact Information: [mgug1455@gmail.com](mailto:mgug1455@gmail.com)
 
 <br>
 
-**AV Performance Master**
+**AV Performance Overview**
 
 <br>
 
